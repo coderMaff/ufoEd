@@ -1,7 +1,7 @@
 # ufoEd
 ufoEd
 
-ufo  Eney Unknown Amiga Save Game Editor
+UFO Enemy Unknown Amiga Save Game Editor
 
 In Amiga E
 
